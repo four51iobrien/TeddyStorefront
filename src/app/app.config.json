@@ -1,0 +1,13 @@
+{
+  "appname": "TeddyStorefront",
+  "ocscope": "FullAccess",
+  "clientid": "E0ABC92D-BC26-4F9F-AEF2-8DA49E5402C5",
+  "buyerid": "teddy001",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
